@@ -1,0 +1,6 @@
+{
+  "name": "DynamicVolume - Smart Auto Volume for Android",
+  "description": "Intelligent ambient noise adaptive volume control system for Android smartphones with real-time decibel metering, audio demonstration, smart curves, and exportable Android companion scripts.",
+  "requestFramePermissions": ["microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
